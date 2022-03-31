@@ -1,0 +1,20 @@
+2022/03/31-22:21:51.336 350 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2022/03/31-22:21:51.336 350 Recovering log #22
+2022/03/31-22:21:51.337 350 Reusing old log /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000022.log 
+2022/03/31-22:22:53.696 52b Level-0 table #26: started
+2022/03/31-22:22:53.785 52b Level-0 table #26: 7552324 bytes OK
+2022/03/31-22:22:53.792 52b Delete type=0 #22
+2022/03/31-22:24:19.874 5ae Level-0 table #28: started
+2022/03/31-22:24:19.949 5ae Level-0 table #28: 7550784 bytes OK
+2022/03/31-22:24:19.954 5ae Delete type=0 #25
+2022/03/31-22:24:19.956 5ae Compacting 4@0 + 2@1 files
+2022/03/31-22:24:20.070 5ae Generated table #29@0: 1 keys, 7550428 bytes
+2022/03/31-22:24:20.075 5ae Generated table #30@0: 4 keys, 478 bytes
+2022/03/31-22:24:20.075 5ae Compacted 4@0 + 2@1 files => 7550906 bytes
+2022/03/31-22:24:20.079 5ae compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/31-22:24:20.079 5ae Delete type=2 #21
+2022/03/31-22:24:20.079 5ae Delete type=2 #17
+2022/03/31-22:24:20.079 5ae Delete type=2 #23
+2022/03/31-22:24:20.079 5ae Delete type=2 #18
+2022/03/31-22:24:20.079 5ae Delete type=2 #28
+2022/03/31-22:24:20.079 5ae Delete type=2 #26

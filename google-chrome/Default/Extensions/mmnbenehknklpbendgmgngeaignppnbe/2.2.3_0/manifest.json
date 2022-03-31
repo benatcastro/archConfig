@@ -1,0 +1,42 @@
+{
+   "background": {
+      "page": "bg.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "32.png",
+      "default_popup": "",
+      "default_title": "__MSG_extName__"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "common.js" ],
+      "match_about_blank": false,
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "js": [ "c1.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "css": [ "common.css" ],
+      "js": [ "content_script.js" ],
+      "match_about_blank": false,
+      "matches": [ "https://*.netflix.com/watch/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Install Netflix Party Plus Chrome extension to watch along with your friends",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "32": "32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwdhTvCDcOYQBAU+hPUWpdFYrG7FN5vk84qoobBm5ZJYhUT0YEWVGVuFareB8Dtbo8+pHsjXhXm0FtFDrsI4g2NZYh2Gt2vdF0SCT/NmDIH3u312gPUpquorSiw8F+Pm1qD/3K420KtZXv60J2u4xDjPQnxId0sOt0aIfzjsuNUb6RFE+21EDr1irsGJMsYFNExB35bau8XcW33tifrWRwT8/NixNX0aZcGDYJqaKk1maZf5DK+QbYGoApOxPjb86pVIkrAqg/gbS/11r+YCV/JW1r8MVmEPDuaPa7GNNty/MTBrIIKjYTnR2NhQAfoFbSFH5smoBLlE+BRo8OatibwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "cookies", "storage", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.3",
+   "web_accessible_resources": [ "img/*" ]
+}

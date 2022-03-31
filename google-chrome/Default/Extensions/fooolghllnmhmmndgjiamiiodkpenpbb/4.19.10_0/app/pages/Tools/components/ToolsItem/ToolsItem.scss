@@ -1,0 +1,21 @@
+.tools-item {
+  border-radius: 8px;
+  height: 82px;
+
+  &:hover {
+    background-color: var(--grey-lightest);
+
+    > svg {
+      color: var(--grey-darkest);
+
+      .theme-dark & {
+        color: var(--grey-white);
+      }
+    }
+  }
+
+  &__description {
+    line-height: 14px;
+    letter-spacing: -.12px;
+  }
+}

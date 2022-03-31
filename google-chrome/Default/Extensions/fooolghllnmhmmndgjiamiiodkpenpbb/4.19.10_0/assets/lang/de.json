@@ -1,0 +1,803 @@
+{
+    "launchApp": {
+        "translation": "App starten"
+    },
+    "noResultsFoundFor": {
+        "translation": "Keine Ergebnisse für"
+    },
+    "sharedWith": {
+        "translation": "Freigegeben für"
+    },
+    "copiedTooltip": {
+        "translation": "Kopiert!"
+    },
+    "youAreOffline": {
+        "translation": "Du bist offline."
+    },
+    "masterPassword": {
+        "translation": "Master-Passwort"
+    },
+    "addNewFolder": {
+        "translation": "Neuen Ordner hinzufügen"
+    },
+    "emptyVaultSharedPrimaryText": {
+        "translation": "Keine freigegebenen Elemente"
+    },
+    "cancel": {
+        "translation": "Abbrechen"
+    },
+    "duplicate": {
+        "translation": "Duplikat"
+    },
+    "copy": {
+        "translation": "Kopieren"
+    },
+    "copyCvvCvc": {
+        "translation": "CVV \/ CVC kopieren"
+    },
+    "download": {
+        "translation": "Herunterladen"
+    },
+    "password": {
+        "translation": "Passwort"
+    },
+    "linuxGetStartedStepText": {
+        "translation": "Öffne das Terminal und führe die folgende Befehlszeile aus:"
+    },
+    "notes": {
+        "translation": "Hinweise"
+    },
+    "addCreditCard": {
+        "translation": "Kreditkarte hinzufügen"
+    },
+    "securelyStoreYourPersonalInfo": {
+        "translation": "Speichere deine persönlichen Daten sicher."
+    },
+    "moveToTrash": {
+        "translation": "In den Papierkorb verschieben"
+    },
+    "allItems": {
+        "translation": "Alle Elemente"
+    },
+    "sharedItems": {
+        "translation": "Freigegebene Elemente"
+    },
+    "folders": {
+        "translation": "Ordner"
+    },
+    "protect": {
+        "translation": "Schützen"
+    },
+    "importantUppercase": {
+        "translation": "WICHTIG"
+    },
+    "sortBy": {
+        "translation": "Sortieren nach"
+    },
+    "organizationBannerText": {
+        "translation": "Tritt der Organisation mit aktuellen Passwörtern bei oder lösche deinen Tresor."
+    },
+    "removeAccessExplanation": {
+        "translation": "Du verlierst den Zugriff auf dieses Element. Diese Aktion kann nicht rückgängig gemacht werden"
+    },
+    "import": {
+        "translation": "Importieren"
+    },
+    "title": {
+        "translation": "Titel"
+    },
+    "passwordGeneratorCheckbox3": {
+        "translation": "Ziffern (0–9) verwenden"
+    },
+    "creditCard": {
+        "translation": "Kreditkarte"
+    },
+    "emptyFolderSecondaryText": {
+        "translation": "Füge Passwörter oder andere Elemente zu diesem Ordner hinzu, um organisiert zu bleiben."
+    },
+    "switchToPrivate": {
+        "translation": "In Privatmodus wechseln"
+    },
+    "tryPremiumForFree": {
+        "translation": "Premium jetzt kostenlos testen"
+    },
+    "winGetStartedText": {
+        "translation": "Für Windows herunterladen"
+    },
+    "length": {
+        "translation": "Länge"
+    },
+    "premium": {
+        "translation": "Premium"
+    },
+    "expirationDate": {
+        "translation": "Ablaufdatum"
+    },
+    "greetings": {
+        "translation": "Hallo!"
+    },
+    "settings": {
+        "translation": "Einstellungen"
+    },
+    "emptyVaultSharedSecondaryText": {
+        "translation": "Elemente, die du mit anderen gemeinsam nutzt, werden hier angezeigt."
+    },
+    "emailUs": {
+        "translation": "Schreib uns eine E-Mail"
+    },
+    "upgradeToShareText": {
+        "translation": "Hol dir das Premium-Paket, um Elemente für vertrauenswürdige Personen freizugeben"
+    },
+    "addNewFolderTooltip": {
+        "translation": "Neuen Ordner hinzufügen"
+    },
+    "importPasswords": {
+        "translation": "Passwörter importieren"
+    },
+    "getNordPassDesktopApp": {
+        "translation": "Hol dir die NordPass-Desktop-App"
+    },
+    "helpCenter": {
+        "translation": "Besuche unser Hilfe-Center"
+    },
+    "getStartedAfterInstallStep": {
+        "translation": "Starte die installierte App, melde dich an und verwende NordPass."
+    },
+    "sortingOrder": {
+        "translation": "Sortierreihenfolge"
+    },
+    "pendingItems": {
+        "translation": "Ausstehende {items, plural, one{Element} other{Elemente}}"
+    },
+    "moreOptions": {
+        "translation": "Mehr Optionen"
+    },
+    "emptyVaultPasswordPrimaryText": {
+        "translation": "Passwortzurücksetzungen vergessen"
+    },
+    "passwordGeneratorCheckbox2": {
+        "translation": "Kleinbuchstaben (a...z) verwenden"
+    },
+    "delete": {
+        "translation": "Löschen"
+    },
+    "show": {
+        "translation": "Anzeigen"
+    },
+    "youAreBackOnline": {
+        "translation": "Du bist wieder online"
+    },
+    "copyNote": {
+        "translation": "Notiz kopieren"
+    },
+    "winGetStartedSubText": {
+        "translation": "Windows 7 oder höher"
+    },
+    "phone": {
+        "translation": "Telefonnummer"
+    },
+    "share": {
+        "translation": "Freigeben"
+    },
+    "deleteFolderQuestion": {
+        "translation": "Verzeichnis löschen?"
+    },
+    "pendingInvite": {
+        "translation": "Deine Einladung steht noch aus"
+    },
+    "logOut": {
+        "translation": "Abmelden"
+    },
+    "emptyVaultPersonalPrimaryText": {
+        "translation": "Fülle Online-Formulare ohne Stress aus"
+    },
+    "upgradeToShareTitle": {
+        "translation": "Dies ist eine Premium-Funktion"
+    },
+    "copyPassword": {
+        "translation": "Passwort kopieren"
+    },
+    "emptyVaultFolderViewSecondaryText": {
+        "translation": "Erstelle dein erstes Element, um mit dem Aufbau deines Tresors zu beginnen. Oder importiere gespeicherte Passwörter"
+    },
+    "notSpecified": {
+        "translation": "Keine Angabe"
+    },
+    "forgotMasterPasswordQuestion": {
+        "translation": "Master-Passwort vergessen?"
+    },
+    "emptyFolderPrimaryText": {
+        "translation": "Der Ordner ist leer"
+    },
+    "passwordStrengthWeak": {
+        "translation": "Schwaches Passwort"
+    },
+    "enteringUnprotectedWebsiteWarning": {
+        "translation": "Wenn du deine Daten eingibst, könnten deine sämtlichen Daten einem Risiko ausgesetzt sein. Wechsle nach Möglichkeit zu einer privaten Verbindung"
+    },
+    "pendingItemsMessageBeforeLogin": {
+        "translation": "Du kannst auf {items, plural, one {dieses Element} other {diese Elemente}} zugreifen, sobald {email} sich bei Nordpass anmeldet."
+    },
+    "city": {
+        "translation": "Stadt"
+    },
+    "launchWebsite": {
+        "translation": "Website aufrufen"
+    },
+    "learnMore": {
+        "translation": "Mehr erfahren"
+    },
+    "searchResultsFor": {
+        "translation": "Suchergebnisse für "
+    },
+    "suggestedItems": {
+        "translation": "Vorgeschlagene Elemente"
+    },
+    "moveItemsFromFolderToTrash": {
+        "translation": "Verschiebe Elemente von diesem Ordner in den Papierkorb"
+    },
+    "addFolder": {
+        "translation": "Ordner hinzufügen"
+    },
+    "passwordStrengthStrong": {
+        "translation": "Starkes Passwort"
+    },
+    "declineItem": {
+        "translation": "Element ablehnen"
+    },
+    "hide": {
+        "translation": "Ausblenden"
+    },
+    "categories": {
+        "translation": "Kategorien"
+    },
+    "errorWhileAccessingItem": {
+        "translation": "Beim Zugriff auf dieses Element ist ein Fehler aufgetreten."
+    },
+    "emptyVaultNotesPrimaryText": {
+        "translation": "Entlaste dein Gedächtnis"
+    },
+    "addressLine2": {
+        "translation": "Adressergänzung (Optional)"
+    },
+    "approveExtensionPopupText": {
+        "translation": "Gib diese Zahlen in das NordPass-Popup-Fenster ein, um eine sichere Kopplung mit deinem Browser herzustellen"
+    },
+    "addNewCreditCard": {
+        "translation": "Neue Kreditkarte hinzufügen"
+    },
+    "logInAnyway": {
+        "translation": "Trotzdem anmelden"
+    },
+    "lock": {
+        "translation": "Sperren"
+    },
+    "passwords": {
+        "translation": "Passwörter"
+    },
+    "winGetStartedStep": {
+        "translation": "Lade die NordPass-Hintergrund-App herunter"
+    },
+    "passwordGeneratorCheckbox1": {
+        "translation": "Großbuchstaben (A–Z) verwenden"
+    },
+    "descending": {
+        "translation": "Absteigend"
+    },
+    "createFreeAccount": {
+        "translation": "Kostenloses Konto erstellen"
+    },
+    "emptyVaultPersonalSecondaryText": {
+        "translation": "Speichere deine Adresse und Kontaktdetails, um Anmeldeformulare schnell auszufüllen"
+    },
+    "addPersonalInfo": {
+        "translation": "Persönliche Angaben hinzufügen"
+    },
+    "passwordGeneratorCheckbox4": {
+        "translation": "Symbole (@!$%*)"
+    },
+    "addSecureNotes": {
+        "translation": "Sichere Notizen hinzufügen"
+    },
+    "passwordGeneratorCheckbox5": {
+        "translation": "Mehrdeutige Zeichen vermeiden"
+    },
+    "enteringUnprotectedWebsite": {
+        "translation": "Du bist dabei, deine Daten auf einer ungeschützten Webseite einzugeben"
+    },
+    "addPassword": {
+        "translation": "Passwort hinzufügen"
+    },
+    "visitHelpCenter": {
+        "translation": "Suche das Hilfe-Center auf oder wende dich an unser Team vom Kundensupport, um Unterstützung zu erhalten."
+    },
+    "pendingItemsUserShareItemWithYou": {
+        "translation": "{sharerEmail} hat ein Element mit dir geteilt"
+    },
+    "addYourFirstPassword": {
+        "translation": "Füge dein erstes Passwort hinzu"
+    },
+    "noAddedCreditCards": {
+        "translation": "Du hast noch keine Kreditkartendaten hinzugefügt"
+    },
+    "launch": {
+        "translation": "Start"
+    },
+    "moveSharedItemModalToDescription": {
+        "translation": "Du hast dieses Element für andere freigegeben. Wenn du es in den Papierkorb verschiebst, wird auch der Zugriff anderer Benutzer darauf entfernt."
+    },
+    "logIntoAccount": {
+        "translation": "Melde dich in deinem Konto an"
+    },
+    "websiteUrl": {
+        "translation": "Internetadresse"
+    },
+    "personalInfo": {
+        "translation": "Persönliche Angaben"
+    },
+    "backup": {
+        "translation": "Sicherung"
+    },
+    "declineItemQuestion": {
+        "translation": "Bist du sicher, dass du dieses Element ablehnen möchtest?"
+    },
+    "noPasswordsSaved": {
+        "translation": "Für diese Website wurden keine Passwörter gespeichert"
+    },
+    "cardholderName": {
+        "translation": "Name des Karteninhabers"
+    },
+    "lessOptions": {
+        "translation": "Weniger Optionen"
+    },
+    "rename": {
+        "translation": "Umbenennen"
+    },
+    "trash": {
+        "translation": "Papierkorb"
+    },
+    "upgradeNordPass": {
+        "translation": "NordPass upgraden"
+    },
+    "removeMyAccess": {
+        "translation": "Meinen Zugriff entfernen"
+    },
+    "joinNow": {
+        "translation": "Jetzt mitmachen"
+    },
+    "addItem": {
+        "translation": "Element hinzufügen"
+    },
+    "installDesktopAppText": {
+        "translation": "NordPass ist jetzt eine Desktop-App. Lade die Desktop-App herunter und installiere sie, um den NordPass-Passwort-Manager zu verwenden."
+    },
+    "addressLine1": {
+        "translation": "Adresse Zeile 1"
+    },
+    "limitedRightsToView": {
+        "translation": "Du hast eingeschränkte Berechtigungen bezüglich dieses Elements"
+    },
+    "needHelpQuestion": {
+        "translation": "Brauchst du Hilfe?"
+    },
+    "secureNote": {
+        "translation": "Sichere Notiz"
+    },
+    "emptyVaultCCSecondaryText": {
+        "translation": "Füge Kreditkartendaten hinzu, die dann beim Online-Shopping automatisch eingefügt werden"
+    },
+    "emptyVaultCCPrimaryText": {
+        "translation": "Kaufe ein, ohne einen Finger rühren zu müssen"
+    },
+    "unlockNordPass": {
+        "translation": "NordPass entsperren"
+    },
+    "emptyVaultPasswordSecondaryText": {
+        "translation": "Füge deine Passwörter hinzu und greife überall und auf jedem Gerät darauf zu"
+    },
+    "getStartedInstallStep": {
+        "translation": "Lade die Desktop-App herunter und installiere sie auf deinem Computer."
+    },
+    "copyEmailUsername": {
+        "translation": "E-Mail oder Benutzernamen kopieren"
+    },
+    "deleteFolderText": {
+        "translation": "Wenn du den Ordner löscht, werden die Elemente in diesem Ordner nicht gelöscht. Wenn du sowohl den Ordner als auch die Elemente löschen möchtest, aktiviere bitte das folgende Kontrollkästchen."
+    },
+    "launchAppToStart": {
+        "translation": "Starte zuerst die NordPass-App, um deinen Tresor zu verwenden"
+    },
+    "macGetStartedSubText": {
+        "translation": "macOS X Yosemite (10.10) oder höher"
+    },
+    "tools": {
+        "translation": "Tools"
+    },
+    "emailOrUsername": {
+        "translation": "E-Mail\/Benutzername"
+    },
+    "zipOrPostalCode": {
+        "translation": "ZIP \/ Postleitzahl"
+    },
+    "copied": {
+        "translation": "Kopiert"
+    },
+    "passwordGenerator": {
+        "translation": "Passwort-Generator"
+    },
+    "decline": {
+        "translation": "Ablehnen"
+    },
+    "cardNumber": {
+        "translation": "Kartennummer"
+    },
+    "note": {
+        "translation": "Notiz"
+    },
+    "access": {
+        "translation": "Zugriff"
+    },
+    "logIn": {
+        "translation": "Anmelden"
+    },
+    "copyCardNumber": {
+        "translation": "Kartennummer kopieren"
+    },
+    "refresh": {
+        "translation": "Aktualisieren"
+    },
+    "lastUsed": {
+        "translation": "Zuletzt verwendet"
+    },
+    "createAccountToShareText": {
+        "translation": "Um Elemente freizugeben, musst du ein Konto erstellen und das Premium-Paket abonnieren."
+    },
+    "usePassword": {
+        "translation": "Passwort verwenden"
+    },
+    "aboutToDeleteFolderQuestion": {
+        "translation": "Du bist dabei, diesen Ordner zu löschen. Bist du sicher?"
+    },
+    "enterMasterPassword": {
+        "translation": "Master-Passwort eingeben"
+    },
+    "accept": {
+        "translation": "Akzeptieren"
+    },
+    "linuxGetStartedStep": {
+        "translation": "Kommandozeile ausführen"
+    },
+    "email": {
+        "translation": "E-Mail-Adresse"
+    },
+    "emptyVaultNotesSecondaryText": {
+        "translation": "Notiere dir einen WLAN-Code, einen Sicherheitsalarmcode für das Büro oder den Geburtstag eines Freundes"
+    },
+    "createAccount": {
+        "translation": "Ein Konto erstellen"
+    },
+    "ascending": {
+        "translation": "Aufsteigend"
+    },
+    "alreadyHaveAccountQuestion": {
+        "translation": "Hast du ein Konto?"
+    },
+    "folder": {
+        "translation": "Ordner"
+    },
+    "undefinedError": {
+        "translation": "Es ist ein undefinierter Fehler aufgetreten. Wenn er weiterhin besteht, wende dich bitte an den Support."
+    },
+    "passwordStrengthModerate": {
+        "translation": "Mittelstark Passwort"
+    },
+    "country": {
+        "translation": "Land"
+    },
+    "secureNotes": {
+        "translation": "Sichere Notizen"
+    },
+    "edit": {
+        "translation": "Bearbeiten"
+    },
+    "emptyVaultFolderText": {
+        "translation": "Dieser Ordner ist leer. Verwende diese Option, um deine Passwörter und andere Elemente zu organisieren"
+    },
+    "macGetStartedText": {
+        "translation": "Für macOS herunterladen"
+    },
+    "createAccountBannerTitle": {
+        "translation": "Hol dir mit dem kostenlosem Konto mehr"
+    },
+    "creditCards": {
+        "translation": "Kreditkarten"
+    },
+    "search": {
+        "translation": "Suchen"
+    },
+    "sharedItemsCountMessage": {
+        "translation": "{email} hat {items, plural, one {ein Element} other {mehrere Elemente}} mit dir geteilt."
+    },
+    "copyCardholderName": {
+        "translation": "Namen des Karteninhabers kopieren"
+    },
+    "dontHaveAppQuestion": {
+        "translation": "Du hast die App nicht?"
+    },
+    "fullName": {
+        "translation": "Vollständiger Name"
+    },
+    "address": {
+        "translation": "Adresse"
+    },
+    "copyFullAddress": {
+        "translation": "Vollständige Adresse kopieren"
+    },
+    "passwordSecurity": {
+        "translation": "Passwortschutz"
+    },
+    "weakPassword": {
+        "translation": "Schwaches Passwort"
+    },
+    "moderatePassword": {
+        "translation": "Mittelstark Passwort"
+    },
+    "strongPassword": {
+        "translation": "Starkes Passwort"
+    },
+    "createAccountBannerCheck1": {
+        "translation": "Sperre deine Passwörter, um sie zu schützen"
+    },
+    "createAccountBannerCheck2": {
+        "translation": "Verwende NordPass auf bis zu 6 Geräten gleichzeitig"
+    },
+    "createAccountBannerCheck3": {
+        "translation": "Sichere deinen Tresor, damit du nie wieder ein Passwort verlierst"
+    },
+    "removeFromFolder": {
+        "translation": "Aus dem Ordner entfernen"
+    },
+    "moveToFolder": {
+        "translation": "In den Ordner verschieben"
+    },
+    "passwordGeneratorDescription": {
+        "translation": "Sichere Passwörter für deine Konten erstellen"
+    },
+    "passwordHealth": {
+        "translation": "Password Health"
+    },
+    "passwordHealthDescription": {
+        "translation": "Identifiziere Passwörter, die eine Gefahr darstellen könnten"
+    },
+    "breachScanner": {
+        "translation": "Data Breach Scanner"
+    },
+    "breachScannerDescription": {
+        "translation": "Überprüfe, ob deine sensiblen Daten online öffentlich geworden sind"
+    },
+    "nordVpnDescription": {
+        "translation": "Schütze dich und deine Daten beim Surfen im Internet vor neugierigen Blicken"
+    },
+    "nordLockerDescription": {
+        "translation": "Bewahre deine Dateien sicher auf Erhalte 3 GB verschlüsselten Cloud-Speicher kostenlos"
+    },
+    "discoverOtherApps": {
+        "translation": "Weitere Apps entdecken"
+    },
+    "showOptions": {
+        "translation": "Optionen anzeigen"
+    },
+    "hideOptions": {
+        "translation": "Optionen verbergen"
+    },
+    "limitedRightsMessage": {
+        "translation": "Du hast eingeschränkte Berechtigungen bezüglich dieses Elements"
+    },
+    "tryOtherNordApps": {
+        "translation": "Probiere andere Nord-Apps aus"
+    },
+    "generateNew": {
+        "translation": "Neu generieren"
+    },
+    "lessThanMinute": {
+        "translation": "Vor weniger als einer Minute"
+    },
+    "unprotectedWebsite": {
+        "translation": "Ungeschützte Website"
+    },
+    "enterAnyway": {
+        "translation": "Trotzdem eingeben"
+    },
+    "emptyPersonalInfo": {
+        "translation": "Du hast noch keine persönlichen Daten hinzugefügt"
+    },
+    "openNordPass": {
+        "translation": "NordPass öffnen"
+    },
+    "openNordPassToStart": {
+        "translation": "Um die Browsererweiterung zu verwenden, öffne zunächst die NordPass-App"
+    },
+    "emptyVaultPrimaryText": {
+        "translation": "Los geht's"
+    },
+    "emptyVaultSecondaryText": {
+        "translation": "Füge dein erstes Element hinzu. Du findest es hier, wann immer du es brauchst."
+    },
+    "importItems": {
+        "translation": "Importieren Elemente"
+    },
+    "getPremium": {
+        "translation": "Premium erhalten"
+    },
+    "newItems": {
+        "translation": "Neue Elemente"
+    },
+    "declineItemHeader": {
+        "translation": "Element ablehnen?"
+    },
+    "declineItemContent": {
+        "translation": "Du lehnst den gemeinsamen Zugriff auf dieses Element ab"
+    },
+    "upgradeNordpassToUseOnMultipleDevices": {
+        "translation": "NordPass für die Verwendung auf mehreren Geräten hochstufen"
+    },
+    "freeTrial": {
+        "translation": "Kostenlose Testphase"
+    },
+    "deleteItemModalHeader": {
+        "translation": "Möchtest du das Element löschen?"
+    },
+    "removeAccessHeader": {
+        "translation": "Meinen Zugriff entfernen?"
+    },
+    "restore": {
+        "translation": "Wiederherstellen"
+    },
+    "deleteItemModalContent": {
+        "translation": "Dieses Element geht verloren und kann nicht mehr wiederhergestellt werden"
+    },
+    "emptyTrashPrimaryText": {
+        "translation": "Der Papierkorb ist leer"
+    },
+    "emptyTrashSecondaryText": {
+        "translation": "Elemente, die in den Papierkorb verschoben wurden, können wiederhergestellt werden, bis du sie endgültig löschst."
+    },
+    "declineItemDescription": {
+        "translation": "Du lehnst den gemeinsamen Zugriff auf dieses Element ab"
+    },
+    "pairingCode": {
+        "translation": "Ihr NordPass-Kopplungscode"
+    },
+    "updateNordPassToStart": {
+        "translation": "Du verwendest eine alte NordPass-Version. Aktualisiere bitte zuerst die App, um eine Erweiterung zu verwenden."
+    },
+    "incompatibleVersions": {
+        "translation": "Inkompatible Versionen"
+    },
+    "updateRequired": {
+        "translation": "Update erforderlich"
+    },
+    "premiumPlan": {
+        "translation": "Premium-Paket"
+    },
+    "businessPlan": {
+        "translation": "Businesspaket"
+    },
+    "freePlan": {
+        "translation": "NordPass Kostenlos"
+    },
+    "lockApp": {
+        "translation": "App sperren"
+    },
+    "switchAccount": {
+        "translation": "Konto wechseln"
+    },
+    "addAnotherAccount": {
+        "translation": "Ein weiteres Konto hinzufügen"
+    },
+    "remove": {
+        "translation": "Entfernen"
+    },
+    "limitedTimeToCreateAccount": {
+        "translation": "Begrenzte Zeit zum Erstellen eines Kontos"
+    },
+    "enjoyingNordPass": {
+        "translation": "Dir gefällt NordPass?"
+    },
+    "clickOnStartToRateYourExperience": {
+        "translation": "Klicken Sie auf einen Stern, um Ihre Erfahrung zu bewerten"
+    },
+    "thankYouForYourFeedback": {
+        "translation": "Vielen Dank für Ihr Feedback!"
+    },
+    "wouldYouLikeToRateNordPassOnBrowserStore": {
+        "translation": "Möchten Sie NordPass im {browser} Web Store bewerten?"
+    },
+    "rateOnWebStore": {
+        "translation": "Im Web Store bewerten"
+    },
+    "cvvCvC": {
+        "translation": "CVV \/ CVC"
+    },
+    "securityCode": {
+        "translation": "CVV"
+    },
+    "cardPin": {
+        "translation": "Karten-PIN"
+    },
+    "cvvLabel": {
+        "translation": "CVV"
+    },
+    "enterprisePlan": {
+        "translation": "Enterprise-Paket"
+    },
+    "stateOrRegion": {
+        "translation": "Bundesland\/Region"
+    },
+    "itemCopied": {
+        "translation": "{item} kopiert"
+    },
+    "itemRemovedFromFolder": {
+        "translation": "{item} aus {folderName} entfernt"
+    },
+    "stateOrProvince": {
+        "translation": "Bundesland oder Provinz"
+    },
+    "numberOfPasswords": {
+        "translation": "{count, plural, one {Passwort} other {{count} Passwörter}}"
+    },
+    "numberOfCreditCards": {
+        "translation": "{count, plural, one {Kreditkarte} other {{count} Kreditkarten}}"
+    },
+    "numberOfSecureNotes": {
+        "translation": "{count, plural, one {Sichere Notiz} other {{count} Sichere Notizen}}"
+    },
+    "numberOfPersonalInfoItems": {
+        "translation": "{count, plural, one {Persönliche Angaben} other {{count} Elemente der persönlichen Angaben}}"
+    },
+    "passwordItems": {
+        "translation": "{count, plural, one {Passwort} other {Passwörter}}"
+    },
+    "secureNotesItems": {
+        "translation": "{count, plural, one {Sichere Notiz} other {Sichere Notizen}}"
+    },
+    "personalInfoItems": {
+        "translation": "{count, plural, one {Persönliche Angaben} other {Elemente der persönlichen Angaben}}"
+    },
+    "creditCardItems": {
+        "translation": "{count, plural, one {Kreditkarte} other {Kreditkarten}}"
+    },
+    "deletingItemsError": {
+        "translation": "Beim Löschen dieses Elements ist ein Fehler aufgetreten."
+    },
+    "duplicatingPersonalInfoError": {
+        "translation": "Beim Duplizieren dieses Elements ist ein Fehler aufgetreten."
+    },
+    "errorOnRestoring": {
+        "translation": "Beim Wiederherstellen dieses Elements ist ein Fehler aufgetreten."
+    },
+    "errorOnDeclining": {
+        "translation": "Beim Ablehnen dieses Elements ist ein Fehler aufgetreten."
+    },
+    "logOutAll": {
+        "translation": "Alle abmelden"
+    },
+    "authenticityErrorTitle": {
+        "translation": "Einrichtung der Browsererweiterung abschließen"
+    },
+    "authenticityErrorDescription": {
+        "translation": "Wenn du die NordPass-Browsererweiterung verwenden möchtest, musst du sie mit der App verbinden"
+    },
+    "authenticityErrorButton": {
+        "translation": "Verbindung erneut versuchen"
+    },
+    "locked": {
+        "translation": "Gesperrt"
+    },
+    "loggedOut": {
+        "translation": "Abgemeldet"
+    },
+    "businessPlusPlan": {
+        "translation": "Business Pro"
+    }
+}

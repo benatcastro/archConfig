@@ -1,0 +1,40 @@
+$avatar-colors: (
+  0: #5062f6,
+  1: #f06634,
+  2: #ffb800,
+  3: #36ae96,
+  4: #2796c9,
+  5: #6c72d4,
+  6: #bfb3a1,
+  7: #ff7853,
+  8: #7cd4af,
+  9: #6ec3cf,
+  10: #748498,
+  11: #f15c3c,
+  12: #c4ce14,
+  13: #519cf3,
+  14: #c257d8,
+  15: #8c8692,
+  16: #af3848,
+  17: #fb8c00,
+  18: #7abb10,
+  19: #3cb0c0,
+  20: #2f7398,
+);
+
+.email-icon {
+  &__avatar {
+    @each $i, $color in $avatar-colors {
+      &-#{$i} {
+        > circle {
+          fill: $color;
+        }
+      }
+    }
+  }
+
+  &__text {
+    font-size: 10px;
+    line-height: 15px;
+  }
+}

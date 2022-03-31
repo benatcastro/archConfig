@@ -1,0 +1,6 @@
+2022/03/31-21:22:16.050 55e Reusing MANIFEST /home/bena/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/31-21:22:16.050 55e Recovering log #3
+2022/03/31-21:22:16.058 55e Reusing old log /home/bena/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/03/31-21:57:41.204 e83 Level-0 table #5: started
+2022/03/31-21:57:41.225 e83 Level-0 table #5: 1058062 bytes OK
+2022/03/31-21:57:41.232 e83 Delete type=0 #3

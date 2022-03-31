@@ -1,0 +1,6 @@
+2022/03/31-22:01:48.501 f18 Creating DB /home/bena/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2022/03/31-22:01:48.521 f18 Reusing MANIFEST /home/bena/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/31-22:03:16.239 ff1 Level-0 table #5: started
+2022/03/31-22:03:16.243 ff1 Level-0 table #5: 1993 bytes OK
+2022/03/31-22:03:16.246 ff1 Delete type=0 #3
+2022/03/31-22:03:16.246 ff1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

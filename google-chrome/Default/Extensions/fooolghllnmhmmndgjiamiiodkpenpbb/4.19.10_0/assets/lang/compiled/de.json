@@ -1,0 +1,1900 @@
+{
+  "aboutToDeleteFolderQuestion": [
+    {
+      "type": 0,
+      "value": "Du bist dabei, diesen Ordner zu löschen. Bist du sicher?"
+    }
+  ],
+  "accept": [
+    {
+      "type": 0,
+      "value": "Akzeptieren"
+    }
+  ],
+  "access": [
+    {
+      "type": 0,
+      "value": "Zugriff"
+    }
+  ],
+  "addAnotherAccount": [
+    {
+      "type": 0,
+      "value": "Ein weiteres Konto hinzufügen"
+    }
+  ],
+  "addCreditCard": [
+    {
+      "type": 0,
+      "value": "Kreditkarte hinzufügen"
+    }
+  ],
+  "addFolder": [
+    {
+      "type": 0,
+      "value": "Ordner hinzufügen"
+    }
+  ],
+  "addItem": [
+    {
+      "type": 0,
+      "value": "Element hinzufügen"
+    }
+  ],
+  "addNewCreditCard": [
+    {
+      "type": 0,
+      "value": "Neue Kreditkarte hinzufügen"
+    }
+  ],
+  "addNewFolder": [
+    {
+      "type": 0,
+      "value": "Neuen Ordner hinzufügen"
+    }
+  ],
+  "addNewFolderTooltip": [
+    {
+      "type": 0,
+      "value": "Neuen Ordner hinzufügen"
+    }
+  ],
+  "addPassword": [
+    {
+      "type": 0,
+      "value": "Passwort hinzufügen"
+    }
+  ],
+  "addPersonalInfo": [
+    {
+      "type": 0,
+      "value": "Persönliche Angaben hinzufügen"
+    }
+  ],
+  "addSecureNotes": [
+    {
+      "type": 0,
+      "value": "Sichere Notizen hinzufügen"
+    }
+  ],
+  "addYourFirstPassword": [
+    {
+      "type": 0,
+      "value": "Füge dein erstes Passwort hinzu"
+    }
+  ],
+  "address": [
+    {
+      "type": 0,
+      "value": "Adresse"
+    }
+  ],
+  "addressLine1": [
+    {
+      "type": 0,
+      "value": "Adresse Zeile 1"
+    }
+  ],
+  "addressLine2": [
+    {
+      "type": 0,
+      "value": "Adressergänzung (Optional)"
+    }
+  ],
+  "allItems": [
+    {
+      "type": 0,
+      "value": "Alle Elemente"
+    }
+  ],
+  "alreadyHaveAccountQuestion": [
+    {
+      "type": 0,
+      "value": "Hast du ein Konto?"
+    }
+  ],
+  "approveExtensionPopupText": [
+    {
+      "type": 0,
+      "value": "Gib diese Zahlen in das NordPass-Popup-Fenster ein, um eine sichere Kopplung mit deinem Browser herzustellen"
+    }
+  ],
+  "ascending": [
+    {
+      "type": 0,
+      "value": "Aufsteigend"
+    }
+  ],
+  "authenticityErrorButton": [
+    {
+      "type": 0,
+      "value": "Verbindung erneut versuchen"
+    }
+  ],
+  "authenticityErrorDescription": [
+    {
+      "type": 0,
+      "value": "Wenn du die NordPass-Browsererweiterung verwenden möchtest, musst du sie mit der App verbinden"
+    }
+  ],
+  "authenticityErrorTitle": [
+    {
+      "type": 0,
+      "value": "Einrichtung der Browsererweiterung abschließen"
+    }
+  ],
+  "backup": [
+    {
+      "type": 0,
+      "value": "Sicherung"
+    }
+  ],
+  "breachScanner": [
+    {
+      "type": 0,
+      "value": "Data Breach Scanner"
+    }
+  ],
+  "breachScannerDescription": [
+    {
+      "type": 0,
+      "value": "Überprüfe, ob deine sensiblen Daten online öffentlich geworden sind"
+    }
+  ],
+  "businessPlan": [
+    {
+      "type": 0,
+      "value": "Businesspaket"
+    }
+  ],
+  "businessPlusPlan": [
+    {
+      "type": 0,
+      "value": "Business Pro"
+    }
+  ],
+  "cancel": [
+    {
+      "type": 0,
+      "value": "Abbrechen"
+    }
+  ],
+  "cardNumber": [
+    {
+      "type": 0,
+      "value": "Kartennummer"
+    }
+  ],
+  "cardPin": [
+    {
+      "type": 0,
+      "value": "Karten-PIN"
+    }
+  ],
+  "cardholderName": [
+    {
+      "type": 0,
+      "value": "Name des Karteninhabers"
+    }
+  ],
+  "categories": [
+    {
+      "type": 0,
+      "value": "Kategorien"
+    }
+  ],
+  "city": [
+    {
+      "type": 0,
+      "value": "Stadt"
+    }
+  ],
+  "clickOnStartToRateYourExperience": [
+    {
+      "type": 0,
+      "value": "Klicken Sie auf einen Stern, um Ihre Erfahrung zu bewerten"
+    }
+  ],
+  "copied": [
+    {
+      "type": 0,
+      "value": "Kopiert"
+    }
+  ],
+  "copiedTooltip": [
+    {
+      "type": 0,
+      "value": "Kopiert!"
+    }
+  ],
+  "copy": [
+    {
+      "type": 0,
+      "value": "Kopieren"
+    }
+  ],
+  "copyCardNumber": [
+    {
+      "type": 0,
+      "value": "Kartennummer kopieren"
+    }
+  ],
+  "copyCardholderName": [
+    {
+      "type": 0,
+      "value": "Namen des Karteninhabers kopieren"
+    }
+  ],
+  "copyCvvCvc": [
+    {
+      "type": 0,
+      "value": "CVV / CVC kopieren"
+    }
+  ],
+  "copyEmailUsername": [
+    {
+      "type": 0,
+      "value": "E-Mail oder Benutzernamen kopieren"
+    }
+  ],
+  "copyFullAddress": [
+    {
+      "type": 0,
+      "value": "Vollständige Adresse kopieren"
+    }
+  ],
+  "copyNote": [
+    {
+      "type": 0,
+      "value": "Notiz kopieren"
+    }
+  ],
+  "copyPassword": [
+    {
+      "type": 0,
+      "value": "Passwort kopieren"
+    }
+  ],
+  "country": [
+    {
+      "type": 0,
+      "value": "Land"
+    }
+  ],
+  "createAccount": [
+    {
+      "type": 0,
+      "value": "Ein Konto erstellen"
+    }
+  ],
+  "createAccountBannerCheck1": [
+    {
+      "type": 0,
+      "value": "Sperre deine Passwörter, um sie zu schützen"
+    }
+  ],
+  "createAccountBannerCheck2": [
+    {
+      "type": 0,
+      "value": "Verwende NordPass auf bis zu 6 Geräten gleichzeitig"
+    }
+  ],
+  "createAccountBannerCheck3": [
+    {
+      "type": 0,
+      "value": "Sichere deinen Tresor, damit du nie wieder ein Passwort verlierst"
+    }
+  ],
+  "createAccountBannerTitle": [
+    {
+      "type": 0,
+      "value": "Hol dir mit dem kostenlosem Konto mehr"
+    }
+  ],
+  "createAccountToShareText": [
+    {
+      "type": 0,
+      "value": "Um Elemente freizugeben, musst du ein Konto erstellen und das Premium-Paket abonnieren."
+    }
+  ],
+  "createFreeAccount": [
+    {
+      "type": 0,
+      "value": "Kostenloses Konto erstellen"
+    }
+  ],
+  "creditCard": [
+    {
+      "type": 0,
+      "value": "Kreditkarte"
+    }
+  ],
+  "creditCardItems": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Kreditkarte"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Kreditkarten"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "creditCards": [
+    {
+      "type": 0,
+      "value": "Kreditkarten"
+    }
+  ],
+  "cvvCvC": [
+    {
+      "type": 0,
+      "value": "CVV / CVC"
+    }
+  ],
+  "cvvLabel": [
+    {
+      "type": 0,
+      "value": "CVV"
+    }
+  ],
+  "decline": [
+    {
+      "type": 0,
+      "value": "Ablehnen"
+    }
+  ],
+  "declineItem": [
+    {
+      "type": 0,
+      "value": "Element ablehnen"
+    }
+  ],
+  "declineItemContent": [
+    {
+      "type": 0,
+      "value": "Du lehnst den gemeinsamen Zugriff auf dieses Element ab"
+    }
+  ],
+  "declineItemDescription": [
+    {
+      "type": 0,
+      "value": "Du lehnst den gemeinsamen Zugriff auf dieses Element ab"
+    }
+  ],
+  "declineItemHeader": [
+    {
+      "type": 0,
+      "value": "Element ablehnen?"
+    }
+  ],
+  "declineItemQuestion": [
+    {
+      "type": 0,
+      "value": "Bist du sicher, dass du dieses Element ablehnen möchtest?"
+    }
+  ],
+  "delete": [
+    {
+      "type": 0,
+      "value": "Löschen"
+    }
+  ],
+  "deleteFolderQuestion": [
+    {
+      "type": 0,
+      "value": "Verzeichnis löschen?"
+    }
+  ],
+  "deleteFolderText": [
+    {
+      "type": 0,
+      "value": "Wenn du den Ordner löscht, werden die Elemente in diesem Ordner nicht gelöscht. Wenn du sowohl den Ordner als auch die Elemente löschen möchtest, aktiviere bitte das folgende Kontrollkästchen."
+    }
+  ],
+  "deleteItemModalContent": [
+    {
+      "type": 0,
+      "value": "Dieses Element geht verloren und kann nicht mehr wiederhergestellt werden"
+    }
+  ],
+  "deleteItemModalHeader": [
+    {
+      "type": 0,
+      "value": "Möchtest du das Element löschen?"
+    }
+  ],
+  "deletingItemsError": [
+    {
+      "type": 0,
+      "value": "Beim Löschen dieses Elements ist ein Fehler aufgetreten."
+    }
+  ],
+  "descending": [
+    {
+      "type": 0,
+      "value": "Absteigend"
+    }
+  ],
+  "discoverOtherApps": [
+    {
+      "type": 0,
+      "value": "Weitere Apps entdecken"
+    }
+  ],
+  "dontHaveAppQuestion": [
+    {
+      "type": 0,
+      "value": "Du hast die App nicht?"
+    }
+  ],
+  "download": [
+    {
+      "type": 0,
+      "value": "Herunterladen"
+    }
+  ],
+  "duplicate": [
+    {
+      "type": 0,
+      "value": "Duplikat"
+    }
+  ],
+  "duplicatingPersonalInfoError": [
+    {
+      "type": 0,
+      "value": "Beim Duplizieren dieses Elements ist ein Fehler aufgetreten."
+    }
+  ],
+  "edit": [
+    {
+      "type": 0,
+      "value": "Bearbeiten"
+    }
+  ],
+  "email": [
+    {
+      "type": 0,
+      "value": "E-Mail-Adresse"
+    }
+  ],
+  "emailOrUsername": [
+    {
+      "type": 0,
+      "value": "E-Mail/Benutzername"
+    }
+  ],
+  "emailUs": [
+    {
+      "type": 0,
+      "value": "Schreib uns eine E-Mail"
+    }
+  ],
+  "emptyFolderPrimaryText": [
+    {
+      "type": 0,
+      "value": "Der Ordner ist leer"
+    }
+  ],
+  "emptyFolderSecondaryText": [
+    {
+      "type": 0,
+      "value": "Füge Passwörter oder andere Elemente zu diesem Ordner hinzu, um organisiert zu bleiben."
+    }
+  ],
+  "emptyPersonalInfo": [
+    {
+      "type": 0,
+      "value": "Du hast noch keine persönlichen Daten hinzugefügt"
+    }
+  ],
+  "emptyTrashPrimaryText": [
+    {
+      "type": 0,
+      "value": "Der Papierkorb ist leer"
+    }
+  ],
+  "emptyTrashSecondaryText": [
+    {
+      "type": 0,
+      "value": "Elemente, die in den Papierkorb verschoben wurden, können wiederhergestellt werden, bis du sie endgültig löschst."
+    }
+  ],
+  "emptyVaultCCPrimaryText": [
+    {
+      "type": 0,
+      "value": "Kaufe ein, ohne einen Finger rühren zu müssen"
+    }
+  ],
+  "emptyVaultCCSecondaryText": [
+    {
+      "type": 0,
+      "value": "Füge Kreditkartendaten hinzu, die dann beim Online-Shopping automatisch eingefügt werden"
+    }
+  ],
+  "emptyVaultFolderText": [
+    {
+      "type": 0,
+      "value": "Dieser Ordner ist leer. Verwende diese Option, um deine Passwörter und andere Elemente zu organisieren"
+    }
+  ],
+  "emptyVaultFolderViewSecondaryText": [
+    {
+      "type": 0,
+      "value": "Erstelle dein erstes Element, um mit dem Aufbau deines Tresors zu beginnen. Oder importiere gespeicherte Passwörter"
+    }
+  ],
+  "emptyVaultNotesPrimaryText": [
+    {
+      "type": 0,
+      "value": "Entlaste dein Gedächtnis"
+    }
+  ],
+  "emptyVaultNotesSecondaryText": [
+    {
+      "type": 0,
+      "value": "Notiere dir einen WLAN-Code, einen Sicherheitsalarmcode für das Büro oder den Geburtstag eines Freundes"
+    }
+  ],
+  "emptyVaultPasswordPrimaryText": [
+    {
+      "type": 0,
+      "value": "Passwortzurücksetzungen vergessen"
+    }
+  ],
+  "emptyVaultPasswordSecondaryText": [
+    {
+      "type": 0,
+      "value": "Füge deine Passwörter hinzu und greife überall und auf jedem Gerät darauf zu"
+    }
+  ],
+  "emptyVaultPersonalPrimaryText": [
+    {
+      "type": 0,
+      "value": "Fülle Online-Formulare ohne Stress aus"
+    }
+  ],
+  "emptyVaultPersonalSecondaryText": [
+    {
+      "type": 0,
+      "value": "Speichere deine Adresse und Kontaktdetails, um Anmeldeformulare schnell auszufüllen"
+    }
+  ],
+  "emptyVaultPrimaryText": [
+    {
+      "type": 0,
+      "value": "Los geht's"
+    }
+  ],
+  "emptyVaultSecondaryText": [
+    {
+      "type": 0,
+      "value": "Füge dein erstes Element hinzu. Du findest es hier, wann immer du es brauchst."
+    }
+  ],
+  "emptyVaultSharedPrimaryText": [
+    {
+      "type": 0,
+      "value": "Keine freigegebenen Elemente"
+    }
+  ],
+  "emptyVaultSharedSecondaryText": [
+    {
+      "type": 0,
+      "value": "Elemente, die du mit anderen gemeinsam nutzt, werden hier angezeigt."
+    }
+  ],
+  "enjoyingNordPass": [
+    {
+      "type": 0,
+      "value": "Dir gefällt NordPass?"
+    }
+  ],
+  "enterAnyway": [
+    {
+      "type": 0,
+      "value": "Trotzdem eingeben"
+    }
+  ],
+  "enterMasterPassword": [
+    {
+      "type": 0,
+      "value": "Master-Passwort eingeben"
+    }
+  ],
+  "enteringUnprotectedWebsite": [
+    {
+      "type": 0,
+      "value": "Du bist dabei, deine Daten auf einer ungeschützten Webseite einzugeben"
+    }
+  ],
+  "enteringUnprotectedWebsiteWarning": [
+    {
+      "type": 0,
+      "value": "Wenn du deine Daten eingibst, könnten deine sämtlichen Daten einem Risiko ausgesetzt sein. Wechsle nach Möglichkeit zu einer privaten Verbindung"
+    }
+  ],
+  "enterprisePlan": [
+    {
+      "type": 0,
+      "value": "Enterprise-Paket"
+    }
+  ],
+  "errorOnDeclining": [
+    {
+      "type": 0,
+      "value": "Beim Ablehnen dieses Elements ist ein Fehler aufgetreten."
+    }
+  ],
+  "errorOnRestoring": [
+    {
+      "type": 0,
+      "value": "Beim Wiederherstellen dieses Elements ist ein Fehler aufgetreten."
+    }
+  ],
+  "errorWhileAccessingItem": [
+    {
+      "type": 0,
+      "value": "Beim Zugriff auf dieses Element ist ein Fehler aufgetreten."
+    }
+  ],
+  "expirationDate": [
+    {
+      "type": 0,
+      "value": "Ablaufdatum"
+    }
+  ],
+  "folder": [
+    {
+      "type": 0,
+      "value": "Ordner"
+    }
+  ],
+  "folders": [
+    {
+      "type": 0,
+      "value": "Ordner"
+    }
+  ],
+  "forgotMasterPasswordQuestion": [
+    {
+      "type": 0,
+      "value": "Master-Passwort vergessen?"
+    }
+  ],
+  "freePlan": [
+    {
+      "type": 0,
+      "value": "NordPass Kostenlos"
+    }
+  ],
+  "freeTrial": [
+    {
+      "type": 0,
+      "value": "Kostenlose Testphase"
+    }
+  ],
+  "fullName": [
+    {
+      "type": 0,
+      "value": "Vollständiger Name"
+    }
+  ],
+  "generateNew": [
+    {
+      "type": 0,
+      "value": "Neu generieren"
+    }
+  ],
+  "getNordPassDesktopApp": [
+    {
+      "type": 0,
+      "value": "Hol dir die NordPass-Desktop-App"
+    }
+  ],
+  "getPremium": [
+    {
+      "type": 0,
+      "value": "Premium erhalten"
+    }
+  ],
+  "getStartedAfterInstallStep": [
+    {
+      "type": 0,
+      "value": "Starte die installierte App, melde dich an und verwende NordPass."
+    }
+  ],
+  "getStartedInstallStep": [
+    {
+      "type": 0,
+      "value": "Lade die Desktop-App herunter und installiere sie auf deinem Computer."
+    }
+  ],
+  "greetings": [
+    {
+      "type": 0,
+      "value": "Hallo!"
+    }
+  ],
+  "helpCenter": [
+    {
+      "type": 0,
+      "value": "Besuche unser Hilfe-Center"
+    }
+  ],
+  "hide": [
+    {
+      "type": 0,
+      "value": "Ausblenden"
+    }
+  ],
+  "hideOptions": [
+    {
+      "type": 0,
+      "value": "Optionen verbergen"
+    }
+  ],
+  "import": [
+    {
+      "type": 0,
+      "value": "Importieren"
+    }
+  ],
+  "importItems": [
+    {
+      "type": 0,
+      "value": "Importieren Elemente"
+    }
+  ],
+  "importPasswords": [
+    {
+      "type": 0,
+      "value": "Passwörter importieren"
+    }
+  ],
+  "importantUppercase": [
+    {
+      "type": 0,
+      "value": "WICHTIG"
+    }
+  ],
+  "incompatibleVersions": [
+    {
+      "type": 0,
+      "value": "Inkompatible Versionen"
+    }
+  ],
+  "installDesktopAppText": [
+    {
+      "type": 0,
+      "value": "NordPass ist jetzt eine Desktop-App. Lade die Desktop-App herunter und installiere sie, um den NordPass-Passwort-Manager zu verwenden."
+    }
+  ],
+  "itemCopied": [
+    {
+      "type": 1,
+      "value": "item"
+    },
+    {
+      "type": 0,
+      "value": " kopiert"
+    }
+  ],
+  "itemRemovedFromFolder": [
+    {
+      "type": 1,
+      "value": "item"
+    },
+    {
+      "type": 0,
+      "value": " aus "
+    },
+    {
+      "type": 1,
+      "value": "folderName"
+    },
+    {
+      "type": 0,
+      "value": " entfernt"
+    }
+  ],
+  "joinNow": [
+    {
+      "type": 0,
+      "value": "Jetzt mitmachen"
+    }
+  ],
+  "lastUsed": [
+    {
+      "type": 0,
+      "value": "Zuletzt verwendet"
+    }
+  ],
+  "launch": [
+    {
+      "type": 0,
+      "value": "Start"
+    }
+  ],
+  "launchApp": [
+    {
+      "type": 0,
+      "value": "App starten"
+    }
+  ],
+  "launchAppToStart": [
+    {
+      "type": 0,
+      "value": "Starte zuerst die NordPass-App, um deinen Tresor zu verwenden"
+    }
+  ],
+  "launchWebsite": [
+    {
+      "type": 0,
+      "value": "Website aufrufen"
+    }
+  ],
+  "learnMore": [
+    {
+      "type": 0,
+      "value": "Mehr erfahren"
+    }
+  ],
+  "length": [
+    {
+      "type": 0,
+      "value": "Länge"
+    }
+  ],
+  "lessOptions": [
+    {
+      "type": 0,
+      "value": "Weniger Optionen"
+    }
+  ],
+  "lessThanMinute": [
+    {
+      "type": 0,
+      "value": "Vor weniger als einer Minute"
+    }
+  ],
+  "limitedRightsMessage": [
+    {
+      "type": 0,
+      "value": "Du hast eingeschränkte Berechtigungen bezüglich dieses Elements"
+    }
+  ],
+  "limitedRightsToView": [
+    {
+      "type": 0,
+      "value": "Du hast eingeschränkte Berechtigungen bezüglich dieses Elements"
+    }
+  ],
+  "limitedTimeToCreateAccount": [
+    {
+      "type": 0,
+      "value": "Begrenzte Zeit zum Erstellen eines Kontos"
+    }
+  ],
+  "linuxGetStartedStep": [
+    {
+      "type": 0,
+      "value": "Kommandozeile ausführen"
+    }
+  ],
+  "linuxGetStartedStepText": [
+    {
+      "type": 0,
+      "value": "Öffne das Terminal und führe die folgende Befehlszeile aus:"
+    }
+  ],
+  "lock": [
+    {
+      "type": 0,
+      "value": "Sperren"
+    }
+  ],
+  "lockApp": [
+    {
+      "type": 0,
+      "value": "App sperren"
+    }
+  ],
+  "locked": [
+    {
+      "type": 0,
+      "value": "Gesperrt"
+    }
+  ],
+  "logIn": [
+    {
+      "type": 0,
+      "value": "Anmelden"
+    }
+  ],
+  "logInAnyway": [
+    {
+      "type": 0,
+      "value": "Trotzdem anmelden"
+    }
+  ],
+  "logIntoAccount": [
+    {
+      "type": 0,
+      "value": "Melde dich in deinem Konto an"
+    }
+  ],
+  "logOut": [
+    {
+      "type": 0,
+      "value": "Abmelden"
+    }
+  ],
+  "logOutAll": [
+    {
+      "type": 0,
+      "value": "Alle abmelden"
+    }
+  ],
+  "loggedOut": [
+    {
+      "type": 0,
+      "value": "Abgemeldet"
+    }
+  ],
+  "macGetStartedSubText": [
+    {
+      "type": 0,
+      "value": "macOS X Yosemite (10.10) oder höher"
+    }
+  ],
+  "macGetStartedText": [
+    {
+      "type": 0,
+      "value": "Für macOS herunterladen"
+    }
+  ],
+  "masterPassword": [
+    {
+      "type": 0,
+      "value": "Master-Passwort"
+    }
+  ],
+  "moderatePassword": [
+    {
+      "type": 0,
+      "value": "Mittelstark Passwort"
+    }
+  ],
+  "moreOptions": [
+    {
+      "type": 0,
+      "value": "Mehr Optionen"
+    }
+  ],
+  "moveItemsFromFolderToTrash": [
+    {
+      "type": 0,
+      "value": "Verschiebe Elemente von diesem Ordner in den Papierkorb"
+    }
+  ],
+  "moveSharedItemModalToDescription": [
+    {
+      "type": 0,
+      "value": "Du hast dieses Element für andere freigegeben. Wenn du es in den Papierkorb verschiebst, wird auch der Zugriff anderer Benutzer darauf entfernt."
+    }
+  ],
+  "moveToFolder": [
+    {
+      "type": 0,
+      "value": "In den Ordner verschieben"
+    }
+  ],
+  "moveToTrash": [
+    {
+      "type": 0,
+      "value": "In den Papierkorb verschieben"
+    }
+  ],
+  "needHelpQuestion": [
+    {
+      "type": 0,
+      "value": "Brauchst du Hilfe?"
+    }
+  ],
+  "newItems": [
+    {
+      "type": 0,
+      "value": "Neue Elemente"
+    }
+  ],
+  "noAddedCreditCards": [
+    {
+      "type": 0,
+      "value": "Du hast noch keine Kreditkartendaten hinzugefügt"
+    }
+  ],
+  "noPasswordsSaved": [
+    {
+      "type": 0,
+      "value": "Für diese Website wurden keine Passwörter gespeichert"
+    }
+  ],
+  "noResultsFoundFor": [
+    {
+      "type": 0,
+      "value": "Keine Ergebnisse für"
+    }
+  ],
+  "nordLockerDescription": [
+    {
+      "type": 0,
+      "value": "Bewahre deine Dateien sicher auf Erhalte 3 GB verschlüsselten Cloud-Speicher kostenlos"
+    }
+  ],
+  "nordVpnDescription": [
+    {
+      "type": 0,
+      "value": "Schütze dich und deine Daten beim Surfen im Internet vor neugierigen Blicken"
+    }
+  ],
+  "notSpecified": [
+    {
+      "type": 0,
+      "value": "Keine Angabe"
+    }
+  ],
+  "note": [
+    {
+      "type": 0,
+      "value": "Notiz"
+    }
+  ],
+  "notes": [
+    {
+      "type": 0,
+      "value": "Hinweise"
+    }
+  ],
+  "numberOfCreditCards": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Kreditkarte"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " Kreditkarten"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "numberOfPasswords": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Passwort"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " Passwörter"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "numberOfPersonalInfoItems": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Persönliche Angaben"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " Elemente der persönlichen Angaben"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "numberOfSecureNotes": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Sichere Notiz"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " Sichere Notizen"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "openNordPass": [
+    {
+      "type": 0,
+      "value": "NordPass öffnen"
+    }
+  ],
+  "openNordPassToStart": [
+    {
+      "type": 0,
+      "value": "Um die Browsererweiterung zu verwenden, öffne zunächst die NordPass-App"
+    }
+  ],
+  "organizationBannerText": [
+    {
+      "type": 0,
+      "value": "Tritt der Organisation mit aktuellen Passwörtern bei oder lösche deinen Tresor."
+    }
+  ],
+  "pairingCode": [
+    {
+      "type": 0,
+      "value": "Ihr NordPass-Kopplungscode"
+    }
+  ],
+  "password": [
+    {
+      "type": 0,
+      "value": "Passwort"
+    }
+  ],
+  "passwordGenerator": [
+    {
+      "type": 0,
+      "value": "Passwort-Generator"
+    }
+  ],
+  "passwordGeneratorCheckbox1": [
+    {
+      "type": 0,
+      "value": "Großbuchstaben (A–Z) verwenden"
+    }
+  ],
+  "passwordGeneratorCheckbox2": [
+    {
+      "type": 0,
+      "value": "Kleinbuchstaben (a...z) verwenden"
+    }
+  ],
+  "passwordGeneratorCheckbox3": [
+    {
+      "type": 0,
+      "value": "Ziffern (0–9) verwenden"
+    }
+  ],
+  "passwordGeneratorCheckbox4": [
+    {
+      "type": 0,
+      "value": "Symbole (@!$%*)"
+    }
+  ],
+  "passwordGeneratorCheckbox5": [
+    {
+      "type": 0,
+      "value": "Mehrdeutige Zeichen vermeiden"
+    }
+  ],
+  "passwordGeneratorDescription": [
+    {
+      "type": 0,
+      "value": "Sichere Passwörter für deine Konten erstellen"
+    }
+  ],
+  "passwordHealth": [
+    {
+      "type": 0,
+      "value": "Password Health"
+    }
+  ],
+  "passwordHealthDescription": [
+    {
+      "type": 0,
+      "value": "Identifiziere Passwörter, die eine Gefahr darstellen könnten"
+    }
+  ],
+  "passwordItems": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Passwort"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Passwörter"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "passwordSecurity": [
+    {
+      "type": 0,
+      "value": "Passwortschutz"
+    }
+  ],
+  "passwordStrengthModerate": [
+    {
+      "type": 0,
+      "value": "Mittelstark Passwort"
+    }
+  ],
+  "passwordStrengthStrong": [
+    {
+      "type": 0,
+      "value": "Starkes Passwort"
+    }
+  ],
+  "passwordStrengthWeak": [
+    {
+      "type": 0,
+      "value": "Schwaches Passwort"
+    }
+  ],
+  "passwords": [
+    {
+      "type": 0,
+      "value": "Passwörter"
+    }
+  ],
+  "pendingInvite": [
+    {
+      "type": 0,
+      "value": "Deine Einladung steht noch aus"
+    }
+  ],
+  "pendingItems": [
+    {
+      "type": 0,
+      "value": "Ausstehende "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Element"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Elemente"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "items"
+    }
+  ],
+  "pendingItemsMessageBeforeLogin": [
+    {
+      "type": 0,
+      "value": "Du kannst auf "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "dieses Element"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "diese Elemente"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "items"
+    },
+    {
+      "type": 0,
+      "value": " zugreifen, sobald "
+    },
+    {
+      "type": 1,
+      "value": "email"
+    },
+    {
+      "type": 0,
+      "value": " sich bei Nordpass anmeldet."
+    }
+  ],
+  "pendingItemsUserShareItemWithYou": [
+    {
+      "type": 1,
+      "value": "sharerEmail"
+    },
+    {
+      "type": 0,
+      "value": " hat ein Element mit dir geteilt"
+    }
+  ],
+  "personalInfo": [
+    {
+      "type": 0,
+      "value": "Persönliche Angaben"
+    }
+  ],
+  "personalInfoItems": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Persönliche Angaben"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Elemente der persönlichen Angaben"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "phone": [
+    {
+      "type": 0,
+      "value": "Telefonnummer"
+    }
+  ],
+  "premium": [
+    {
+      "type": 0,
+      "value": "Premium"
+    }
+  ],
+  "premiumPlan": [
+    {
+      "type": 0,
+      "value": "Premium-Paket"
+    }
+  ],
+  "protect": [
+    {
+      "type": 0,
+      "value": "Schützen"
+    }
+  ],
+  "rateOnWebStore": [
+    {
+      "type": 0,
+      "value": "Im Web Store bewerten"
+    }
+  ],
+  "refresh": [
+    {
+      "type": 0,
+      "value": "Aktualisieren"
+    }
+  ],
+  "remove": [
+    {
+      "type": 0,
+      "value": "Entfernen"
+    }
+  ],
+  "removeAccessExplanation": [
+    {
+      "type": 0,
+      "value": "Du verlierst den Zugriff auf dieses Element. Diese Aktion kann nicht rückgängig gemacht werden"
+    }
+  ],
+  "removeAccessHeader": [
+    {
+      "type": 0,
+      "value": "Meinen Zugriff entfernen?"
+    }
+  ],
+  "removeFromFolder": [
+    {
+      "type": 0,
+      "value": "Aus dem Ordner entfernen"
+    }
+  ],
+  "removeMyAccess": [
+    {
+      "type": 0,
+      "value": "Meinen Zugriff entfernen"
+    }
+  ],
+  "rename": [
+    {
+      "type": 0,
+      "value": "Umbenennen"
+    }
+  ],
+  "restore": [
+    {
+      "type": 0,
+      "value": "Wiederherstellen"
+    }
+  ],
+  "search": [
+    {
+      "type": 0,
+      "value": "Suchen"
+    }
+  ],
+  "searchResultsFor": [
+    {
+      "type": 0,
+      "value": "Suchergebnisse für "
+    }
+  ],
+  "secureNote": [
+    {
+      "type": 0,
+      "value": "Sichere Notiz"
+    }
+  ],
+  "secureNotes": [
+    {
+      "type": 0,
+      "value": "Sichere Notizen"
+    }
+  ],
+  "secureNotesItems": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Sichere Notiz"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Sichere Notizen"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "securelyStoreYourPersonalInfo": [
+    {
+      "type": 0,
+      "value": "Speichere deine persönlichen Daten sicher."
+    }
+  ],
+  "securityCode": [
+    {
+      "type": 0,
+      "value": "CVV"
+    }
+  ],
+  "settings": [
+    {
+      "type": 0,
+      "value": "Einstellungen"
+    }
+  ],
+  "share": [
+    {
+      "type": 0,
+      "value": "Freigeben"
+    }
+  ],
+  "sharedItems": [
+    {
+      "type": 0,
+      "value": "Freigegebene Elemente"
+    }
+  ],
+  "sharedItemsCountMessage": [
+    {
+      "type": 1,
+      "value": "email"
+    },
+    {
+      "type": 0,
+      "value": " hat "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ein Element"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "mehrere Elemente"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "items"
+    },
+    {
+      "type": 0,
+      "value": " mit dir geteilt."
+    }
+  ],
+  "sharedWith": [
+    {
+      "type": 0,
+      "value": "Freigegeben für"
+    }
+  ],
+  "show": [
+    {
+      "type": 0,
+      "value": "Anzeigen"
+    }
+  ],
+  "showOptions": [
+    {
+      "type": 0,
+      "value": "Optionen anzeigen"
+    }
+  ],
+  "sortBy": [
+    {
+      "type": 0,
+      "value": "Sortieren nach"
+    }
+  ],
+  "sortingOrder": [
+    {
+      "type": 0,
+      "value": "Sortierreihenfolge"
+    }
+  ],
+  "stateOrProvince": [
+    {
+      "type": 0,
+      "value": "Bundesland oder Provinz"
+    }
+  ],
+  "stateOrRegion": [
+    {
+      "type": 0,
+      "value": "Bundesland/Region"
+    }
+  ],
+  "strongPassword": [
+    {
+      "type": 0,
+      "value": "Starkes Passwort"
+    }
+  ],
+  "suggestedItems": [
+    {
+      "type": 0,
+      "value": "Vorgeschlagene Elemente"
+    }
+  ],
+  "switchAccount": [
+    {
+      "type": 0,
+      "value": "Konto wechseln"
+    }
+  ],
+  "switchToPrivate": [
+    {
+      "type": 0,
+      "value": "In Privatmodus wechseln"
+    }
+  ],
+  "thankYouForYourFeedback": [
+    {
+      "type": 0,
+      "value": "Vielen Dank für Ihr Feedback!"
+    }
+  ],
+  "title": [
+    {
+      "type": 0,
+      "value": "Titel"
+    }
+  ],
+  "tools": [
+    {
+      "type": 0,
+      "value": "Tools"
+    }
+  ],
+  "trash": [
+    {
+      "type": 0,
+      "value": "Papierkorb"
+    }
+  ],
+  "tryOtherNordApps": [
+    {
+      "type": 0,
+      "value": "Probiere andere Nord-Apps aus"
+    }
+  ],
+  "tryPremiumForFree": [
+    {
+      "type": 0,
+      "value": "Premium jetzt kostenlos testen"
+    }
+  ],
+  "undefinedError": [
+    {
+      "type": 0,
+      "value": "Es ist ein undefinierter Fehler aufgetreten. Wenn er weiterhin besteht, wende dich bitte an den Support."
+    }
+  ],
+  "unlockNordPass": [
+    {
+      "type": 0,
+      "value": "NordPass entsperren"
+    }
+  ],
+  "unprotectedWebsite": [
+    {
+      "type": 0,
+      "value": "Ungeschützte Website"
+    }
+  ],
+  "updateNordPassToStart": [
+    {
+      "type": 0,
+      "value": "Du verwendest eine alte NordPass-Version. Aktualisiere bitte zuerst die App, um eine Erweiterung zu verwenden."
+    }
+  ],
+  "updateRequired": [
+    {
+      "type": 0,
+      "value": "Update erforderlich"
+    }
+  ],
+  "upgradeNordPass": [
+    {
+      "type": 0,
+      "value": "NordPass upgraden"
+    }
+  ],
+  "upgradeNordpassToUseOnMultipleDevices": [
+    {
+      "type": 0,
+      "value": "NordPass für die Verwendung auf mehreren Geräten hochstufen"
+    }
+  ],
+  "upgradeToShareText": [
+    {
+      "type": 0,
+      "value": "Hol dir das Premium-Paket, um Elemente für vertrauenswürdige Personen freizugeben"
+    }
+  ],
+  "upgradeToShareTitle": [
+    {
+      "type": 0,
+      "value": "Dies ist eine Premium-Funktion"
+    }
+  ],
+  "usePassword": [
+    {
+      "type": 0,
+      "value": "Passwort verwenden"
+    }
+  ],
+  "visitHelpCenter": [
+    {
+      "type": 0,
+      "value": "Suche das Hilfe-Center auf oder wende dich an unser Team vom Kundensupport, um Unterstützung zu erhalten."
+    }
+  ],
+  "weakPassword": [
+    {
+      "type": 0,
+      "value": "Schwaches Passwort"
+    }
+  ],
+  "websiteUrl": [
+    {
+      "type": 0,
+      "value": "Internetadresse"
+    }
+  ],
+  "winGetStartedStep": [
+    {
+      "type": 0,
+      "value": "Lade die NordPass-Hintergrund-App herunter"
+    }
+  ],
+  "winGetStartedSubText": [
+    {
+      "type": 0,
+      "value": "Windows 7 oder höher"
+    }
+  ],
+  "winGetStartedText": [
+    {
+      "type": 0,
+      "value": "Für Windows herunterladen"
+    }
+  ],
+  "wouldYouLikeToRateNordPassOnBrowserStore": [
+    {
+      "type": 0,
+      "value": "Möchten Sie NordPass im "
+    },
+    {
+      "type": 1,
+      "value": "browser"
+    },
+    {
+      "type": 0,
+      "value": " Web Store bewerten?"
+    }
+  ],
+  "youAreBackOnline": [
+    {
+      "type": 0,
+      "value": "Du bist wieder online"
+    }
+  ],
+  "youAreOffline": [
+    {
+      "type": 0,
+      "value": "Du bist offline."
+    }
+  ],
+  "zipOrPostalCode": [
+    {
+      "type": 0,
+      "value": "ZIP / Postleitzahl"
+    }
+  ]
+}

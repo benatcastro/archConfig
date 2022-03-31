@@ -1,0 +1,6 @@
+2022/03/31-22:21:50.735 5 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/31-22:21:50.736 5 Recovering log #19
+2022/03/31-22:21:50.737 5 Reusing old log /home/bena/.config/google-chrome/Default/Local Storage/leveldb/000019.log 
+2022/03/31-22:25:59.144 5 Level-0 table #23: started
+2022/03/31-22:25:59.162 5 Level-0 table #23: 18963 bytes OK
+2022/03/31-22:25:59.166 5 Delete type=0 #19

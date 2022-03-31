@@ -1,0 +1,22 @@
+.email-icon {
+  &__svg {
+    path {
+      fill: var(--grey-white); // override nord-svg path selector
+    }
+  }
+
+  &:global(.item-image-24px) &__text {
+    font-size: 10px;
+    line-height: 15px;
+  }
+
+  &:global(.item-image-32px) &__text {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  &:global(.item-image-64px) &__text {
+    font-size: 28px;
+    line-height: 42px;
+  }
+}
