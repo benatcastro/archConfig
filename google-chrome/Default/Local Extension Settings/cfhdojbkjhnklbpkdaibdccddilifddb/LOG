@@ -1,9 +1,6 @@
-2022/03/31-22:32:52.213 7e3 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2022/03/31-22:32:52.213 7e3 Recovering log #27
-2022/03/31-22:32:52.213 7e3 Reusing old log /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000027.log 
-2022/03/31-22:33:54.344 804 Level-0 table #33: started
-2022/03/31-22:33:54.425 804 Level-0 table #33: 7550629 bytes OK
-2022/03/31-22:33:54.430 804 Delete type=0 #27
-2022/03/31-22:34:05.586 805 Level-0 table #35: started
-2022/03/31-22:34:05.675 805 Level-0 table #35: 7550662 bytes OK
-2022/03/31-22:34:05.680 805 Delete type=0 #32
+2022/04/01-04:30:32.918 44c2 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2022/04/01-04:30:32.918 44c2 Recovering log #66
+2022/04/01-04:30:32.918 44c2 Reusing old log /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000066.log 
+2022/04/01-04:31:35.220 44e2 Level-0 table #70: started
+2022/04/01-04:31:35.310 44e2 Level-0 table #70: 7550808 bytes OK
+2022/04/01-04:31:35.314 44e2 Delete type=0 #66
