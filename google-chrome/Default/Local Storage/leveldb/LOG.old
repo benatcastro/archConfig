@@ -1,42 +1,27 @@
-2022/04/01-03:31:02.487 5 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/04/01-03:31:02.488 5 Recovering log #54
-2022/04/01-03:31:02.488 5 Reusing old log /home/bena/.config/google-chrome/Default/Local Storage/leveldb/000054.log 
-2022/04/01-03:32:28.732 3 Level-0 table #58: started
-2022/04/01-03:32:28.754 3 Level-0 table #58: 234470 bytes OK
-2022/04/01-03:32:28.759 3 Delete type=0 #54
-2022/04/01-03:32:28.760 3 Compacting 4@0 + 1@1 files
-2022/04/01-03:32:28.784 3 Generated table #59@0: 444 keys, 1161449 bytes
-2022/04/01-03:32:28.784 3 Compacted 4@0 + 1@1 files => 1161449 bytes
-2022/04/01-03:32:28.788 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/04/01-03:32:28.789 3 Delete type=2 #51
-2022/04/01-03:32:28.789 3 Delete type=2 #58
-2022/04/01-03:32:28.789 3 Delete type=2 #49
-2022/04/01-03:32:28.789 3 Delete type=2 #53
-2022/04/01-03:32:28.789 3 Delete type=2 #55
-2022/04/01-03:50:14.213 d Level-0 table #61: started
-2022/04/01-03:50:14.217 d Level-0 table #61: 17720 bytes OK
-2022/04/01-03:50:14.224 d Delete type=0 #57
-2022/04/01-03:59:36.508 d Level-0 table #63: started
-2022/04/01-03:59:36.513 d Level-0 table #63: 18506 bytes OK
-2022/04/01-03:59:36.518 d Delete type=0 #60
-2022/04/01-04:00:14.218 14 Level-0 table #65: started
-2022/04/01-04:00:14.238 14 Level-0 table #65: 235865 bytes OK
-2022/04/01-04:00:14.243 14 Delete type=0 #62
-2022/04/01-04:03:06.289 14 Level-0 table #67: started
-2022/04/01-04:03:06.319 14 Level-0 table #67: 16544 bytes OK
-2022/04/01-04:03:06.324 14 Delete type=0 #64
-2022/04/01-04:03:06.324 14 Compacting 4@0 + 1@1 files
-2022/04/01-04:03:06.341 14 Generated table #68@0: 457 keys, 1165085 bytes
-2022/04/01-04:03:06.342 14 Compacted 4@0 + 1@1 files => 1165085 bytes
-2022/04/01-04:03:06.345 14 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/04/01-04:03:06.346 14 Delete type=2 #67
-2022/04/01-04:03:06.346 14 Delete type=2 #63
-2022/04/01-04:03:06.346 14 Delete type=2 #65
-2022/04/01-04:03:06.346 14 Delete type=2 #61
-2022/04/01-04:03:06.346 14 Delete type=2 #59
-2022/04/01-04:11:18.466 14 Level-0 table #70: started
-2022/04/01-04:11:18.484 14 Level-0 table #70: 15454 bytes OK
-2022/04/01-04:11:18.489 14 Delete type=0 #66
-2022/04/01-04:15:24.887 14 Level-0 table #72: started
-2022/04/01-04:15:24.905 14 Level-0 table #72: 16487 bytes OK
-2022/04/01-04:15:24.909 14 Delete type=0 #69
+2022/04/03-20:17:34.994 3 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/04/03-20:17:34.994 3 Recovering log #284
+2022/04/03-20:17:34.995 3 Reusing old log /home/bena/.config/google-chrome/Default/Local Storage/leveldb/000284.log 
+2022/04/03-20:28:04.615 8 Level-0 table #289: started
+2022/04/03-20:28:04.619 8 Level-0 table #289: 22292 bytes OK
+2022/04/03-20:28:04.624 8 Delete type=0 #284
+2022/04/03-20:47:49.622 10 Level-0 table #291: started
+2022/04/03-20:47:49.643 10 Level-0 table #291: 239447 bytes OK
+2022/04/03-20:47:49.647 10 Delete type=0 #288
+2022/04/03-20:54:42.712 12 Level-0 table #293: started
+2022/04/03-20:54:42.730 12 Level-0 table #293: 19690 bytes OK
+2022/04/03-20:54:42.734 12 Delete type=0 #290
+2022/04/03-21:03:44.255 12 Level-0 table #295: started
+2022/04/03-21:03:44.260 12 Level-0 table #295: 15256 bytes OK
+2022/04/03-21:03:44.267 12 Delete type=0 #292
+2022/04/03-21:03:44.268 12 Compacting 4@0 + 1@1 files
+2022/04/03-21:03:44.299 12 Generated table #296@0: 2240 keys, 2060900 bytes
+2022/04/03-21:03:44.299 12 Compacted 4@0 + 1@1 files => 2060900 bytes
+2022/04/03-21:03:44.302 12 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/03-21:03:44.303 12 Delete type=2 #291
+2022/04/03-21:03:44.303 12 Delete type=2 #295
+2022/04/03-21:03:44.303 12 Delete type=2 #286
+2022/04/03-21:03:44.303 12 Delete type=2 #289
+2022/04/03-21:03:44.303 12 Delete type=2 #293
+2022/04/03-21:19:12.221 1f Level-0 table #298: started
+2022/04/03-21:19:12.245 1f Level-0 table #298: 372050 bytes OK
+2022/04/03-21:19:12.250 1f Delete type=0 #294

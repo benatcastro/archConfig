@@ -1,3 +1,6 @@
-2022/04/01-03:09:31.716 31c Reusing MANIFEST /home/bena/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/01-03:09:31.716 31c Recovering log #4
-2022/04/01-03:09:31.729 31c Reusing old log /home/bena/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/04/03-20:47:57.624 a6cb6 Creating DB /home/bena/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/04/03-20:47:57.651 a6cb6 Reusing MANIFEST /home/bena/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/03-20:53:01.919 b5fa2 Level-0 table #5: started
+2022/04/03-20:53:01.922 b5fa2 Level-0 table #5: 5356 bytes OK
+2022/04/03-20:53:01.926 b5fa2 Delete type=0 #3
+2022/04/03-20:53:01.926 b5fa2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

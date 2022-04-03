@@ -1,20 +1,26 @@
-2022/04/01-03:31:03.049 e8b Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2022/04/01-03:31:03.049 e8b Recovering log #59
-2022/04/01-03:31:03.049 e8b Reusing old log /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000059.log 
-2022/04/01-03:32:05.544 e65 Level-0 table #63: started
-2022/04/01-03:32:05.617 e65 Level-0 table #63: 7552352 bytes OK
-2022/04/01-03:32:05.621 e65 Delete type=0 #59
-2022/04/01-03:32:05.624 e65 Compacting 4@0 + 2@1 files
-2022/04/01-03:32:05.765 e65 Generated table #64@0: 1 keys, 7550421 bytes
-2022/04/01-03:32:05.770 e65 Generated table #65@0: 4 keys, 477 bytes
-2022/04/01-03:32:05.770 e65 Compacted 4@0 + 2@1 files => 7550898 bytes
-2022/04/01-03:32:05.774 e65 compacted to: files[ 0 2 1 0 0 0 0 ]
-2022/04/01-03:32:05.774 e65 Delete type=2 #58
-2022/04/01-03:32:05.774 e65 Delete type=2 #56
-2022/04/01-03:32:05.774 e65 Delete type=2 #63
-2022/04/01-03:32:05.774 e65 Delete type=2 #54
-2022/04/01-03:32:05.774 e65 Delete type=2 #60
-2022/04/01-03:32:05.774 e65 Delete type=2 #53
-2022/04/01-03:32:51.621 10a8 Level-0 table #67: started
-2022/04/01-03:32:51.719 10a8 Level-0 table #67: 7550665 bytes OK
-2022/04/01-03:32:51.723 10a8 Delete type=0 #62
+2022/04/03-20:17:35.675 57b9e Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2022/04/03-20:17:35.675 57b9e Recovering log #354
+2022/04/03-20:17:35.675 57b9e Reusing old log /home/bena/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000354.log 
+2022/04/03-20:18:38.170 57b9e Level-0 table #358: started
+2022/04/03-20:18:38.251 57b9e Level-0 table #358: 7556143 bytes OK
+2022/04/03-20:18:38.256 57b9e Delete type=0 #354
+2022/04/03-20:19:01.477 5b9a9 Level-0 table #360: started
+2022/04/03-20:19:01.555 5b9a9 Level-0 table #360: 7556292 bytes OK
+2022/04/03-20:19:01.560 5b9a9 Delete type=0 #357
+2022/04/03-21:18:38.170 d85db Level-0 table #362: started
+2022/04/03-21:18:38.251 d85db Level-0 table #362: 7556262 bytes OK
+2022/04/03-21:18:38.256 d85db Delete type=0 #359
+2022/04/03-21:18:38.259 d85db Compacting 4@0 + 2@1 files
+2022/04/03-21:18:38.408 d85db Generated table #363@0: 1 keys, 7555935 bytes
+2022/04/03-21:18:38.414 d85db Generated table #364@0: 4 keys, 484 bytes
+2022/04/03-21:18:38.414 d85db Compacted 4@0 + 2@1 files => 7556419 bytes
+2022/04/03-21:18:38.418 d85db compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/04/03-21:18:38.418 d85db Delete type=2 #353
+2022/04/03-21:18:38.418 d85db Delete type=2 #362
+2022/04/03-21:18:38.418 d85db Delete type=2 #360
+2022/04/03-21:18:38.418 d85db Delete type=2 #358
+2022/04/03-21:18:38.418 d85db Delete type=2 #355
+2022/04/03-21:18:38.418 d85db Delete type=2 #352
+2022/04/03-21:18:47.306 d87e3 Level-0 table #366: started
+2022/04/03-21:18:47.386 d87e3 Level-0 table #366: 7556295 bytes OK
+2022/04/03-21:18:47.390 d87e3 Delete type=0 #361

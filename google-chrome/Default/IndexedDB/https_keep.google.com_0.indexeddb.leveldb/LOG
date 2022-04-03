@@ -1,3 +1,15 @@
-2022/04/01-04:30:55.926 44e4 Reusing MANIFEST /home/bena/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/01-04:30:55.926 44e4 Recovering log #4
-2022/04/01-04:30:55.926 44e4 Reusing old log /home/bena/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/000004.log 
+2022/04/03-19:01:13.160 83a9 Reusing MANIFEST /home/bena/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/03-19:01:13.160 83a9 Recovering log #4
+2022/04/03-19:01:13.160 83a9 Reusing old log /home/bena/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/000004.log 
+2022/04/03-19:22:17.268 9777 Level-0 table #8: started
+2022/04/03-19:22:17.271 9777 Level-0 table #8: 209 bytes OK
+2022/04/03-19:22:17.274 9777 Delete type=0 #4
+2022/04/03-19:22:17.274 9777 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/04/03-19:22:17.274 9777 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 166 : 1
+2022/04/03-19:22:17.274 9777 Compacting 1@1 + 1@2 files
+2022/04/03-19:22:17.277 9777 Generated table #9@1: 54 keys, 945 bytes
+2022/04/03-19:22:17.277 9777 Compacted 1@1 + 1@2 files => 945 bytes
+2022/04/03-19:22:17.281 9777 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/03-19:22:17.281 9777 Delete type=2 #5
+2022/04/03-19:22:17.281 9777 Delete type=2 #8
+2022/04/03-19:22:17.281 9777 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 166 : 1 .. (end); will stop at (end)

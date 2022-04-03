@@ -23,11 +23,12 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
-
+from spotify import Spotify
 from libqtile import bar, layout, widget
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
+
 
 mod = "mod4"
 terminal = guess_terminal()
@@ -35,13 +36,29 @@ terminal = guess_terminal()
 keys = [
     # A list of available commands that can be bound to keys can be found
     # at https://docs.qtile.org/en/latest/manual/config/lazy.html
+    # Spotify keybinds
+    Key([], "XF86AudioPlay",
+    lazy.spawn("dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify " "/org/mpris/MediaPlayer2    " "org.mpris.MediaPlayer2.Player.PlayPause"),
+    desc='Audio play'),
+
+    Key([], "XF86AudioNext",
+    lazy.spawn("dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify " "/org/mpris/MediaPlayer2 " "org.mpris.MediaPlayer2.Player.Next"),
+    desc='Audio next'),
+
+    Key([mod], "XF86AudioNext",
+    lazy.spawn("dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify " "/org/mpris/MediaPlayer2 " "org.mpris.MediaPlayer2.Player.Previous"),
+    desc='Audio previous'),
+
+    # Volume control
+    Key([], "XF86AudioLowerVolume", lazy.spawn("pamixer -d 1")),
+    Key([], "XF86AudioRaiseVolume", lazy.spawn("pamixer -i 1")),
     # App launch keybinds
     Key([mod], "F1", lazy.spawn("rofi -show drun"), desc="Open rofi app launcher"),
     # Switch between windows
-    Key([mod], "h", lazy.layout.left(), desc="Move focus to left"),
-    Key([mod], "l", lazy.layout.right(), desc="Move focus to right"),
-    Key([mod], "j", lazy.layout.down(), desc="Move focus down"),
-    Key([mod], "k", lazy.layout.up(), desc="Move focus up"),
+    Key([mod], "Left", lazy.layout.left(), desc="Move focus to left"),
+    Key([mod], "Right", lazy.layout.right(), desc="Move focus to right"),
+    Key([mod], "Down", lazy.layout.down(), desc="Move focus down"),
+    Key([mod], "Up", lazy.layout.up(), desc="Move focus up"),
     Key([mod], "space", lazy.layout.next(), desc="Move window focus to other window"),
     # Move windows between left/right columns or move up/down in current stack.
     # Moving out of range in Columns layout will create new column.
@@ -51,10 +68,10 @@ keys = [
     Key([mod, "shift"], "k", lazy.layout.shuffle_up(), desc="Move window up"),
     # Grow windows. If current window is on the edge of screen and direction
     # will be to screen edge - window would shrink.
-    Key([mod, "control"], "h", lazy.layout.grow_left(), desc="Grow window to the left"),
-    Key([mod, "control"], "l", lazy.layout.grow_right(), desc="Grow window to the right"),
-    Key([mod, "control"], "j", lazy.layout.grow_down(), desc="Grow window down"),
-    Key([mod, "control"], "k", lazy.layout.grow_up(), desc="Grow window up"),
+    Key([mod, "control"], "Left", lazy.layout.grow_left(), desc="Grow window to the left"),
+    Key([mod, "control"], "Right", lazy.layout.grow_right(), desc="Grow window to the right"),
+    Key([mod, "control"], "Down", lazy.layout.grow_down(), desc="Grow window down"),
+    Key([mod, "control"], "Up", lazy.layout.grow_up(), desc="Grow window up"),
     Key([mod], "n", lazy.layout.normalize(), desc="Reset all window sizes"),
     # Toggle between split and unsplit sides of stack.
     # Split = all windows displayed
@@ -102,7 +119,7 @@ for i in groups:
     )
 
 layouts = [
-    layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], border_width=5, margin=[10, 10, 10, 10]),
+    layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], border_width=0, margin=[15, 15, 8, 8]),
     layout.Max(),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=2),
@@ -118,35 +135,49 @@ layouts = [
 ]
 
 widget_defaults = dict(
-    font="sans",
-    fontsize=12,
+    font="Hack",
+    fontsize=17,
     padding=3,
 )
-extension_defaults = widget_defaults.copy()
+class colors:
+    black= '282c32' #black
+    red=   'e06c75' #red
+    green= '98c379' #green
+    yellow='e5c07b' #yellow
+    blue=  '61afef' #blue
+    magenta='c678dd' #magente
+    cyan=  '56b6c2' #cyan
+    white= 'dcdfe4'  #white
+    pure_white= 'ffffff' #pure_white
 
+#widgets declarations
+arrow = widget.TextBox(text="◀", foreground=colors.cyan, fontsize=66, padding=0)
+
+extension_defaults = widget_defaults.copy()
 screens = [
     Screen(
         bottom=bar.Bar(
-            [
-                widget.CurrentLayout(),
-                widget.GroupBox(),
-                widget.Prompt(),
-                widget.WindowName(),
-                widget.Chord(
-                    chords_colors={
-                        "launch": ("#ff0000", "#ffffff"),
-                    },
-                    name_transform=lambda name: name.upper(),
-                ),
-                widget.TextBox("default config", name="default"),
-                widget.TextBox("Press &lt;M-r&gt; to spawn", foreground="#d75f5f"),
-                widget.Systray(),
-                widget.Clock(format="%Y-%m-%d %a %I:%M %p"),
-                widget.QuickExit(),
+            background=colors.black,
+            #border_width=2,
+            margin=10,
+            widgets=[
+                widget.GroupBox(
+                    highlight_method='line',
+                    highlight_color=colors.cyan,
+                    ),
+                widget.Spacer(length=10),
+                widget.Spacer(length=2, width= 10, background=colors.pure_white),
+                widget.Spacer(length=8),
+                Spotify(
+                    format= "{icon}  {artist} - {track}",
+                    update_interval= 0.1),
+                widget.Spacer(length=900),
+                widget.Clock(),
+                widget.Spacer(),
+                arrow,
+                widget.PulseVolume(update_interval=0.001, background=colors.cyan,padding=20),
             ],
-            24,
-            # border_width=[2, 0, 2, 0],  # Draw top and bottom borders
-            # border_color=["ff00ff", "000000", "ff00ff", "000000"]  # Borders are magenta
+            size=50,
         ),
     ),
 ]
