@@ -37,8 +37,8 @@ keys = [
     # A list of available commands that can be bound to keys can be found
     # at https://docs.qtile.org/en/latest/manual/config/lazy.html
     #Switch Monitors
-    Key(["Shift_L"], "tab", lazy.layout.left(), desc="Move focus to left"),
-    # Spotify keybinds
+    Key([mod], "Tab", lazy.next_screen()),
+    #Spotify Keybindings
     Key([], "XF86AudioPlay",
     lazy.spawn("dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify " "/org/mpris/MediaPlayer2    " "org.mpris.MediaPlayer2.Player.PlayPause"),
     desc='Audio play'),
@@ -87,7 +87,7 @@ keys = [
     ),
     Key([mod], "Return", lazy.spawn(terminal), desc="Launch terminal"),
     # Toggle between different layouts as defined below
-    Key([mod], "Tab", lazy.next_layout(), desc="Toggle between layouts"),
+    Key(["control"], "Tab", lazy.next_layout(), desc="Toggle between layouts"),
     Key([mod], "w", lazy.window.kill(), desc="Kill focused window"),
     Key([mod, "control"], "r", lazy.reload_config(), desc="Reload the config"),
     Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
