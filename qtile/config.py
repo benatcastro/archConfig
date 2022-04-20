@@ -36,6 +36,8 @@ terminal = guess_terminal()
 keys = [
     # A list of available commands that can be bound to keys can be found
     # at https://docs.qtile.org/en/latest/manual/config/lazy.html
+    #Switch Monitors
+    Key(["Shift_L"], "tab", lazy.layout.left(), desc="Move focus to left"),
     # Spotify keybinds
     Key([], "XF86AudioPlay",
     lazy.spawn("dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify " "/org/mpris/MediaPlayer2    " "org.mpris.MediaPlayer2.Player.PlayPause"),
@@ -136,7 +138,7 @@ layouts = [
 
 widget_defaults = dict(
     font="Hack",
-    fontsize=17,
+    fontsize=20,
     padding=3,
 )
 class colors:
@@ -151,36 +153,69 @@ class colors:
     pure_white= 'ffffff' #pure_white
 
 #widgets declarations
-arrow = widget.TextBox(text="◀", foreground=colors.cyan, fontsize=66, padding=0)
+groupbox= widget.GroupBox(highlight_method='line', highlight_color=colors.cyan,)
+#Cyan color Arrow
+arrow1= widget.TextBox(text="◢", foreground=colors.cyan, fontsize=125, padding=0)
+arrow2= widget.TextBox(text="◢", foreground=colors.magenta, fontsize=125, padding=0, background=colors.cyan)
+
+pulsevolume= widget.PulseVolume(update_interval=0.001, background=colors.magenta, padding=20)
+
+spotify= Spotify(update_interval=0.001, format= "{icon} {artis} - {track}")
+
+windowname = widget.WindowName()
+
 
 extension_defaults = widget_defaults.copy()
 screens = [
     Screen(
         bottom=bar.Bar(
             background=colors.black,
-            #border_width=2,
             margin=10,
             widgets=[
-                widget.GroupBox(
-                    highlight_method='line',
-                    highlight_color=colors.cyan,
-                    ),
-                widget.Spacer(length=10),
-                widget.Spacer(length=2, width= 10, background=colors.pure_white),
-                widget.Spacer(length=8),
-                Spotify(
-                    format= "{icon}  {artist} - {track}",
-                    update_interval= 0.1),
-                widget.Spacer(length=900),
-                widget.Clock(),
+                widget.Spacer(30),
+                groupbox,
+                widget.TextBox(text="━", foreground=colors.cyan, fontsize=25, padding=20),
+                windowname,
                 widget.Spacer(),
-                arrow,
-                widget.PulseVolume(update_interval=0.001, background=colors.cyan,padding=20),
+                widget.Clock(fontsize=20),
+                widget.Spacer(),
+                arrow1,
+                Spotify(update_interval= 0.1, format= "{icon}  {artist} - {track}", background=colors.cyan),
+                arrow2,
+                widget.TextBox(text="𝄞", background=colors.magenta, fontsize=30),
+                pulsevolume,
+                widget.Spacer(30, background=colors.magenta)
             ],
             size=50,
         ),
     ),
-]
+    Screen(
+        bottom=bar.Bar(
+            background = colors.black,
+            margin = 10,
+            widgets = [
+                widget.Spacer(),
+                groupbox,
+                widget.Spacer(),
+            ],
+            size=50),
+        top=bar.Bar(
+            background = colors.black,
+            margin = 10,
+                widgets = [
+                widget.Spacer(),
+                widget.Clock(),
+                widget.Spacer(),
+                arrow1,
+                widget.TextBox(text="Σ", background=colors.cyan, fontsize=30, padding=10),
+                widget.CPU(background=colors.cyan, format = '{freq_current}GHz {load_percent}%'),
+                widget.Spacer(5),
+
+            ],
+            size=50),
+
+        )
+    ]
 
 # Drag floating layouts.
 mouse = [
