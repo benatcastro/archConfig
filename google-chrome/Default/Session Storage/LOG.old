@@ -1,6 +1,6 @@
-2022/03/31-22:21:50.873 5 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2022/03/31-22:21:50.874 5 Recovering log #3
-2022/03/31-22:21:50.875 5 Reusing old log /home/bena/.config/google-chrome/Default/Session Storage/000003.log 
-2022/03/31-22:21:51.470 5 Level-0 table #5: started
-2022/03/31-22:21:51.474 5 Level-0 table #5: 25685 bytes OK
-2022/03/31-22:21:51.479 5 Delete type=0 #3
+2022/04/03-20:17:35.863 3 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/04/03-20:17:35.864 3 Recovering log #48
+2022/04/03-20:17:35.865 3 Reusing old log /home/bena/.config/google-chrome/Default/Session Storage/000048.log 
+2022/04/03-20:53:56.217 12 Level-0 table #52: started
+2022/04/03-20:53:56.235 12 Level-0 table #52: 18385 bytes OK
+2022/04/03-20:53:56.241 12 Delete type=0 #48

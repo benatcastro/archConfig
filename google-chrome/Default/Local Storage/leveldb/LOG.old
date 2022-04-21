@@ -1,6 +1,27 @@
-2022/03/31-22:21:50.735 5 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/03/31-22:21:50.736 5 Recovering log #19
-2022/03/31-22:21:50.737 5 Reusing old log /home/bena/.config/google-chrome/Default/Local Storage/leveldb/000019.log 
-2022/03/31-22:25:59.144 5 Level-0 table #23: started
-2022/03/31-22:25:59.162 5 Level-0 table #23: 18963 bytes OK
-2022/03/31-22:25:59.166 5 Delete type=0 #19
+2022/04/03-20:17:34.994 3 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/04/03-20:17:34.994 3 Recovering log #284
+2022/04/03-20:17:34.995 3 Reusing old log /home/bena/.config/google-chrome/Default/Local Storage/leveldb/000284.log 
+2022/04/03-20:28:04.615 8 Level-0 table #289: started
+2022/04/03-20:28:04.619 8 Level-0 table #289: 22292 bytes OK
+2022/04/03-20:28:04.624 8 Delete type=0 #284
+2022/04/03-20:47:49.622 10 Level-0 table #291: started
+2022/04/03-20:47:49.643 10 Level-0 table #291: 239447 bytes OK
+2022/04/03-20:47:49.647 10 Delete type=0 #288
+2022/04/03-20:54:42.712 12 Level-0 table #293: started
+2022/04/03-20:54:42.730 12 Level-0 table #293: 19690 bytes OK
+2022/04/03-20:54:42.734 12 Delete type=0 #290
+2022/04/03-21:03:44.255 12 Level-0 table #295: started
+2022/04/03-21:03:44.260 12 Level-0 table #295: 15256 bytes OK
+2022/04/03-21:03:44.267 12 Delete type=0 #292
+2022/04/03-21:03:44.268 12 Compacting 4@0 + 1@1 files
+2022/04/03-21:03:44.299 12 Generated table #296@0: 2240 keys, 2060900 bytes
+2022/04/03-21:03:44.299 12 Compacted 4@0 + 1@1 files => 2060900 bytes
+2022/04/03-21:03:44.302 12 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/03-21:03:44.303 12 Delete type=2 #291
+2022/04/03-21:03:44.303 12 Delete type=2 #295
+2022/04/03-21:03:44.303 12 Delete type=2 #286
+2022/04/03-21:03:44.303 12 Delete type=2 #289
+2022/04/03-21:03:44.303 12 Delete type=2 #293
+2022/04/03-21:19:12.221 1f Level-0 table #298: started
+2022/04/03-21:19:12.245 1f Level-0 table #298: 372050 bytes OK
+2022/04/03-21:19:12.250 1f Delete type=0 #294

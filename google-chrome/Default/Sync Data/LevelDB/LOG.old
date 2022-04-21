@@ -1,6 +1,9 @@
-2022/03/31-22:21:50.743 346 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/03/31-22:21:50.743 346 Recovering log #4
-2022/03/31-22:21:50.745 346 Reusing old log /home/bena/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
-2022/03/31-22:25:19.528 5b1 Level-0 table #8: started
-2022/03/31-22:25:19.534 5b1 Level-0 table #8: 105509 bytes OK
-2022/03/31-22:25:19.543 5b1 Delete type=0 #4
+2022/04/03-20:17:35.001 57b60 Reusing MANIFEST /home/bena/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/04/03-20:17:35.001 57b60 Recovering log #4
+2022/04/03-20:17:35.003 57b60 Reusing old log /home/bena/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2022/04/03-20:20:13.683 57ba6 Level-0 table #8: started
+2022/04/03-20:20:13.701 57ba6 Level-0 table #8: 99442 bytes OK
+2022/04/03-20:20:13.705 57ba6 Delete type=0 #4
+2022/04/03-20:50:49.560 a66eb Level-0 table #10: started
+2022/04/03-20:50:49.578 a66eb Level-0 table #10: 90701 bytes OK
+2022/04/03-20:50:49.584 a66eb Delete type=0 #7
